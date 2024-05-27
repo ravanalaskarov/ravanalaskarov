@@ -29,7 +29,7 @@ Located in the vibrant city of Baku, I am part of the growing tech community in 
 - Set up domain and hosting infrastructure.
 
 
-### [EcoHub Azerbaijan](https://www.ecohub.az)
+### [EcoHub Azerbaijan](https://ecohub.az/aze/index)
 **Flutter Developer | March 2023 - September 2023**
 - Developed a cross-platform mobile application, EcoApp, for plastic collection.
 - Used AWS Amplify for backend services.
