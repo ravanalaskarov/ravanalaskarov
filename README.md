@@ -94,12 +94,11 @@ Located in the vibrant city of Baku, I am part of the growing tech community in 
 
 - Listening to The Smiths
 
-## Let's Connect!
+## Check out my [CV](/assets/ravan_alaskarov_cv.pdf)
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me via phone, email or connect with me on LinkedIn.
-\
-\
-\
-<a href="assets/ravan_alaskarov_cv.pdf"><h1 style="text-align: center;" >Check out my CV</h1></a>
+
+
+
 
 
