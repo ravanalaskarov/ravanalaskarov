@@ -10,9 +10,9 @@ Located in the vibrant city of Baku, I am part of the growing tech community in 
 
 ## Skills
 
-- **Programming Languages:** Dart, Python
+- **Programming Languages:** Dart, Python, C
 
-- **Frameworks & Tools:** Flutter, Android Studio, Firebase, AWS Amplify, Google Apps Script
+- **Frameworks & Tools:** Flutter, Android Studio - Java, Firebase, AWS Amplify, Google Apps Script, Flarum, SQL
 
 - **Flutter State Management:** Provider, Riverpod
 
