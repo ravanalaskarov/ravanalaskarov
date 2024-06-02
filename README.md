@@ -76,7 +76,7 @@ Located in the vibrant city of Baku, I am part of the growing tech community in 
 
 - **Phone:** [+994 50-526-66-21](tel:+994505266621)
 
-- **Email:** [ravanalaskarov@proton.me](mailto:ravanalaskarov@proton.me)
+- **Email:** [ravanalaskarov@gmail.com](mailto:ravanalaskarov@gmail.com) or [ravanalaskarov@proton.me](mailto:ravanalaskarov@proton.me)
 
 - **LinkedIn:** [linkedin.com/in/ravanalaskarov](https://www.linkedin.com/in/ravanalaskarov)
 
@@ -94,7 +94,7 @@ Located in the vibrant city of Baku, I am part of the growing tech community in 
 
 - Listening to The Smiths
 
-## Check out my [CV](/assets/ravan_alaskarov_cv.pdf)
+## Check out my [CV](/assets/ravan_alaskarov_cv_en.pdf)
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me via phone, email or connect with me on LinkedIn.
 
