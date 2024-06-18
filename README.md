@@ -1,6 +1,6 @@
 ## `aboutMe`
 
-I'm a passionate junior Flutter developer currently pursuing a Bachelor's degree in `Radiotechnology and Telecommunication Engineering at Azerbaijan Technical University`. With a solid foundation in both engineering principles and mobile development, I aim to create cutting-edge mobile applications that enhance communication technologies. 
+I'm a passionate junior Flutter developer currently pursuing a Bachelor's degree in Radiotechnology and Telecommunication Engineering at Azerbaijan Technical University. With a solid foundation in both engineering principles and mobile development, I aim to create cutting-edge mobile applications that enhance communication technologies. 
 
 ## `myLocation`
 
@@ -98,7 +98,7 @@ Located in the vibrant city of Baku, I am part of the growing tech community in 
 
 
 
-## [`downloadCV`](/assets/ravan_alaskarov_flutter_dev.pdf)
+## [`getCV`](/assets/ravan_alaskarov_flutter_dev.pdf)
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me via `phone`, `email` or connect with me on `LinkedIn`.
 
@@ -133,11 +133,6 @@ class Person {
     this.contactDetails = const [],
     this.hobbiesAndInterests = '',
   });
-
-    @override
-    String toString() {
-        return 'Person(name: $name, surname: $surname, createdAt: $createdAt, description: $description, locationDetails: $locationDetails, skills: $skills, experiences: $experiences, projects: $projects, currentEducation: $currentEducation, certifications: $certifications, contactDetails: $contactDetails, hobbiesAndInterests: $hobbiesAndInterests)';
-    }
 
 }
 
