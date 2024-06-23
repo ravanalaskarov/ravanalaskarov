@@ -99,7 +99,8 @@ Located in the vibrant city of Baku, I am part of the growing tech community in 
 
 ```dart 
 void main() {
-
+  
+  // Use the function to get my CV
   final curriculumVitae = CV(
     name: 'Ravan',
     surname: 'Alaskarov',
@@ -116,12 +117,13 @@ void main() {
   );
 
   CV getCV() {
-    return CV;
+    return curriculumVitae;
   }
 
 }
 
 ```
+---
 
 ## [getCV();](/assets/ravan_alaskarov_flutter_dev.pdf)
 
