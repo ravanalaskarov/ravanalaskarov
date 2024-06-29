@@ -1,4 +1,4 @@
 title: ravanAlaskarov
 description: setState called during build
 show_downloads: false
-remote_theme: pages-themes/minima
+remote_theme: jekyll/minima
