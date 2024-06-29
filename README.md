@@ -10,15 +10,15 @@ Located in the vibrant city of Baku, I am part of the growing tech community in 
 
 ## `mySkills`
 
-- **Programming Languages:** `Dart`, `Python`, `C`
+- **Programming Languages:** Dart, Python, C
 
-- **Frameworks & Tools:** `Flutter`, `Android Studio`, `Firebase`, `AWS Amplify`, `Google Apps Script`, `Flarum`, `SQL`, `RESTful APIs`
+- **Frameworks & Tools:** Flutter, Android Studio, Firebase, AWS Amplify, Google Apps Script, Flarum, SQL, RESTful APIs
 
-- **Flutter State Management:** `Provider`, `Riverpod`
+- **Flutter State Management:** Provider, Riverpod
 
-- **Version Control:** `Git`
+- **Version Control:** Git
 
-- **Languages:** `Azerbaijani (Native/Bilingual)`, `Turkish (Native/Bilingual)`, `English (Professional Working)`
+- **Languages:** Azerbaijani (Native/Bilingual), Turkish (Native/Bilingual), English (Professional Working)
 
 ## `myExperience`
 
@@ -73,7 +73,7 @@ Located in the vibrant city of Baku, I am part of the growing tech community in 
 - **[Participation at the Bakutel 25](assets/certificates/participation_at_the_bakutel_25.jpg)** - Caspian Event Organisers
 
 
-## ```contactMe```
+## `contactMe`
 
 - **Phone:** [+994 50-526-66-21](tel:+994505266621)
 
