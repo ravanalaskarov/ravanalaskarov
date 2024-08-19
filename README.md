@@ -75,8 +75,6 @@ Located in the vibrant city of Baku, I am part of the growing tech community in 
 
 ## `contactMe`
 
-- **Phone:** [+994 50-526-66-21](tel:+994505266621)
-
 - **Email:** `isGmail` ? [ravanalaskarov@gmail.com](mailto:ravanalaskarov@gmail.com) : [ravanalaskarov@proton.me](mailto:ravanalaskarov@proton.me)
 
 - **LinkedIn:** [linkedin.com/in/ravanalaskarov](https://www.linkedin.com/in/ravanalaskarov)
