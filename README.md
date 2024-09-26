@@ -22,19 +22,27 @@ Located in the vibrant city of Baku, I am part of the growing tech community in 
 
 ## `myExperience`
 
+### [Fritty](https://www.frittyclub.com/)
+**Mobile Application Developer | July 2024 to September 2024**
+
+- Implemented Map View and Chat Screen designs based on Figma prototypes
+- Developed Live User Markers on Google Maps with real-time updates using WebSocket
+- Built and integrated features to display a list of live users and a list of live events in real time
+
 ### [EcoHub Azerbaijan](https://ecohub.az/aze/index)
-**Flutter Developer | March 2023 to September 2023**
+**Mobile Application Developer | March 2023 to September 2023**
 - Developed EcoApp, a mobile application for plastic collection, using **AWS Amplify**.
 - Improved data synchronization speed by 20%.
 - Reduced app loading time by 15% through the implementation of new technologies.
 - Independently tested functionalities and ensured stability through unit and acceptance testing.
 
 
-### [Numberlist](https://www.instagram.com/numberlist.az/)
-**Co-Founder and Android Developer | December 2019 to
+### [SimSim](https://www.simsim.az/)
+**Co-Founder and Developer | December 2019 to
  Present**
 - Designed a **Native Android application using Java** for managing phone numbers for sale.
-- Developed APIs with **Google Apps Script**, improving data management efficiency.
+- Designed a **Web App using Flutter** for managing phone numbers for sale.
+- Developed APIs with **Cloudflare Workers** and **Google Apps Script**, improving data management efficiency.
 - Provided the system to numerous **Azercell**, **Bakcell**, and **Nar** retail locations.
 
 
@@ -75,7 +83,7 @@ Located in the vibrant city of Baku, I am part of the growing tech community in 
 
 ## `contactMe`
 
-- **Email:** `isGmail` ? [ravanalaskarov@gmail.com](mailto:ravanalaskarov@gmail.com) : [ravanalaskarov@proton.me](mailto:ravanalaskarov@proton.me)
+- **Email:** [ravanalaskarov@gmail.com](mailto:ravanalaskarov@gmail.com)
 
 - **LinkedIn:** [linkedin.com/in/ravanalaskarov](https://www.linkedin.com/in/ravanalaskarov)
 
@@ -122,9 +130,6 @@ void main() {
 
 ```
 ---
-
-## [getCV();](/assets/ravan_alaskarov_flutter_dev.pdf)
-
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me via phone, email or connect with me on LinkedIn.
 
 
